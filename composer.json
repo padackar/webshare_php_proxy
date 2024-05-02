@@ -1,0 +1,22 @@
+{
+    "name": "omrva/webshare_php_proxy",
+    "description": "PHP repository for work with Webshare proxies.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "omrva\\WebsharePhpProxy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ondrej Mrva"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "ext-curl": "*",
+        "illuminate/collections": "^11.0",
+        "illuminate/support": "^11.0"
+    }
+}
