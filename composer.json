@@ -10,11 +10,12 @@
     },
     "authors": [
         {
-            "name": "Ondrej Mrva"
+            "name": "Ondrej Mrva",
+            "email": "ondro3iap@gmail.com"
         }
     ],
     "require": {
-        "php": "^8.0",
+        "php": "^8.2",
         "ext-curl": "*",
         "illuminate/collections": "^11.0",
         "illuminate/support": "^11.0"
